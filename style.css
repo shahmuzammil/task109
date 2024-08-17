@@ -1,3 +1,4 @@
+/* 
 .main {
     /* z-index: 2; */
     background-position: center;
@@ -6,7 +7,7 @@
     background-image: url(images/Designer.png);
     /* background-color: yellow; */
     height: 500px;
-
+ 
     position: relative;
 }
 
@@ -231,4 +232,4 @@
     position: absolute;
     bottom: 144px;
     right: 572px;
-}
+} */
