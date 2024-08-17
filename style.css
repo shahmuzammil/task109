@@ -1,0 +1,234 @@
+.main {
+    /* z-index: 2; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(images/Designer.png);
+    /* background-color: yellow; */
+    height: 500px;
+
+    position: relative;
+}
+
+.for-img {
+    width: 100%;
+    /* height: 100%; */
+}
+
+.sub1 {
+    height: 300px;
+    width: 100%;
+    background-color: rgb(255, 0, 0);
+    opacity: 0.6;
+    position: absolute;
+    top: 200px;
+}
+
+.input {
+    position: absolute;
+    left: 50px;
+    bottom: 95px;
+}
+
+.butt {
+    position: absolute;
+    left: 200px;
+    border-radius: 25px;
+    background-color: yellow;
+    color: #635439;
+}
+
+.main2 {
+    width: 100%;
+    height: 400px;
+    background-color: orange;
+    position: relative;
+}
+
+.si {
+    height: 400px;
+    /* position: absolute; */
+    /* left: 1px; */
+}
+
+.is {
+    height: 400px;
+    position: absolute;
+    right: 192px;
+}
+
+.para {
+    position: absolute;
+    top: 60px;
+    left: 500px;
+}
+
+.Just {
+    position: absolute;
+    top: 120px;
+    line-height: 35px;
+}
+
+.main3 {
+    border: 0px solid brown;
+    height: 300px;
+    position: relative;
+}
+
+.col1 {
+    border: 0px solid blue;
+    height: 300px;
+    position: relative;
+    background-color: red;
+    color: white;
+}
+
+.col2 {
+    border: 0px solid blue;
+    height: 300px;
+    position: relative;
+}
+
+.col3 {
+    border: 0px solid blue;
+    height: 300px;
+    position: relative;
+    background-color: black;
+    color: white;
+}
+
+.col4 {
+    border: 0px solid blue;
+    height: 300px;
+    position: relative;
+    background-color: gray;
+    color: white;
+}
+
+.same1 {
+    position: absolute;
+    top: 30px;
+}
+
+.same1 {
+    position: absolute;
+    top: 30px;
+}
+
+.same2 {
+    position: absolute;
+    top: 30px;
+}
+
+.same3 {
+    position: absolute;
+    top: 30px;
+}
+
+.same4 {
+    position: absolute;
+    top: 30px;
+}
+
+.icon1 {
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 25px;
+    color: white;
+    background-color: white;
+}
+
+.icon2 {
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 25px;
+    color: white;
+    background-color: white;
+
+}
+
+.icon3 {
+    position: absolute;
+    border: 1px solid rgb(12, 0, 0);
+    border-radius: 25px;
+    background-color: white;
+}
+
+.icon4 {
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+.pehla {
+    height:  600px;
+    border: 1px;
+    background-color: rgb(69, 65, 60);
+    width: 1433px;
+    position: absolute;
+    right: 0px;
+    z-index: -1;
+}
+.main4{
+    position: relative;
+    height: 1200px;
+    width:100%;
+    position: relative;
+}
+.pic1{
+    height: 300px;
+    width: 481px;
+    position: absolute;
+    top: 50px;
+    left: 17px;
+}
+.pic2{
+    height: 300px;
+    width: 481px;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+}
+.pic3{
+    height: 300px;
+    width: 481px;
+    position: absolute;
+    top: 50px;
+    right: 5px;
+}
+.pic4{
+    height: 300px;
+    width: 481px;
+    position: absolute;
+    top: 400px;
+    left: 15px;
+}
+.pic5{
+    height: 300px;
+    width: 481px;
+    position: absolute;
+    top: 400px;
+    left: 497px;
+}
+.pic6{
+    height: 300px;
+    width: 481px;
+    position: absolute;
+    top: 400px;
+    right: 0px;
+}
+.pic7{
+    height: 300px;
+    width: 481px;
+    position: absolute;
+    bottom: 144px;
+    left: 309px;
+}
+.pic8{
+    height: 300px;
+    width: 481px;
+    position: absolute;
+    bottom: 144px;
+    right: 572px;
+}
